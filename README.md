@@ -1,2 +1,7 @@
 # DataScience
-My Data Science Projects
+My data science projects
+
+Projects to include:
+* Titanic Kaggle project
+* House Prices Kaggle project
+
